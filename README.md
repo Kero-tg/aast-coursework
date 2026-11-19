@@ -1,6 +1,6 @@
-﻿# 🧪 مستودع تجارب دراسية وتدريبية (AAST Sandbox)
+﻿# 🧪 Academic Practice & Coursework Sandbox
 
-مستودع تجريبي مخصص للاختبارات الأكاديمية والتمارين البرمجية الخاصة بالأكاديمية العربية للعلوم والتكنولوجيا والنقل البحري (AAST).
+This repository is dedicated to academic coursework, lab assignments, and programming exercises at the Arab Academy for Science, Technology and Maritime Transport (AASTMT).
 
-- **الغرض:** تجارب تعليمية وتمارين تدريبية (Practice & Experimentation).
-- **الحالة:** أرشيف تجارب غير مخصص للإنتاج (Sandbox Repository).
+- **Purpose:** Educational experiments and code testing.
+- **Status:** Practice sandbox (non-production).
